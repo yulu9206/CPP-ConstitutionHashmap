@@ -1,0 +1,42 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: QZ4kU9li4MUUJNvB7ohlCS+hcnlRb
+ vtwZmrpTt0zP6g=
+SHA-256-Digest-Manifest: KOAUtMO/+6UxKoyBPoMFHfxSFH4p5U/gt9Qg6e9USHI=
+Created-By: 1.8.0_131 (Oracle Corporation)
+
+Name: WordMap.cpp
+SHA-256-Digest: bc9hEW1WGKmNDbH+udjpZxUnaoRmazt5vfvEjipbQug=
+
+Name: Word.h
+SHA-256-Digest: Bz/ntleQyxUGSv0cvfExy1AJvu6fVrD61jys//HwsMg=
+
+Name: codecheck.log
+SHA-256-Digest: XlzUBeHzIW+u1jrgfFqLbOvZ6qzlT5Uv72LEZf2VHOk=
+
+Name: report.html
+SHA-256-Digest: 19R3PBXmBLeAwBZTMv2ioQgy1G8pSmJ7iZxWgMBLqPM=
+
+Name: Word.cpp
+SHA-256-Digest: t2/zBY/vdHEgPfUUPjdhqMu2Tc3Zr7zRSYeuNC9VpC4=
+
+Name: WordMap.h
+SHA-256-Digest: F42Poj5MLk9RCr0VpOCZj2qiXGrYIPJGmrTPGNYCp7A=
+
+Name: WordVector.cpp
+SHA-256-Digest: VQhUbG8pLzGK48wokJuNTzq/n6eqy8rRTI2Wu9VPpbk=
+
+Name: Constitution.cpp
+SHA-256-Digest: CRaV6UFyz465089JYaWvgSHHxupplj30/ZASFTu0mjk=
+
+Name: codecheck.out
+SHA-256-Digest: b52xXFI58Bk2vYsOBFW4SeAtUihwAfI35pqcs+KFu0w=
+
+Name: TimedContainer.cpp
+SHA-256-Digest: BpJCDI84L9ePkRxO5a0n24MQ3J3klaDmjRTqfrYC1dY=
+
+Name: WordVector.h
+SHA-256-Digest: cwSq3WvHL2ihyPZvggXcjaheVaFZbGbZyDJeDdLp/2A=
+
+Name: TimedContainer.h
+SHA-256-Digest: hm1bhiswUcnFQTRUGuv3T/RFQQxLZ2NUnDFLJ02uc0k=
+
